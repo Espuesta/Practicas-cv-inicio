@@ -1,0 +1,93 @@
+
+body { background-color: bisque, 0.2;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+ 
+}
+
+
+img{display: block;
+border:rgb(85, 56, 28) solid 1px;
+margin-top: 40px;
+
+}
+
+#Dat { float:right;
+    width: 35%;}
+
+h1 { text-align: center;
+    color: rgb(148, 116, 87);
+    font: sans-serif;
+    margin: 25px;
+    margin-bottom: 50px;
+}
+
+h2 {
+    color: rgb(148, 116, 87);
+    font: sans-serif;
+    margin-left: 15px;
+
+}
+
+.Datos {
+    text-align: center;
+    text-transform: capitalize;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+padding: 5px; 
+margin-left: 70px;
+margin-top: 10px;
+border: 2px rgb(133, 92, 45) solid;
+border-radius: 20px;
+width: 150px;
+
+}
+
+.Educacion { 
+
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(85, 56, 28);
+    border-radius: 15px;
+    width: 550px;
+    margin: 30px;
+    padding: 20px;
+    background-color: rgba(119, 87, 56, 0.274); ;
+}
+h3{text-align: center;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: rgb(43, 23, 2);}
+
+.publi {
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(85, 56, 28);
+    border-top: 2px solid;
+    margin: 25px;
+    padding: 5px;
+    border-radius: 15px;
+    background-color: rgba(119, 88, 56, 0.123);
+
+}
+
+.radio{
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(85, 56, 28);
+    border-top: 2px solid;
+    margin: 25px;
+    padding: 5px;
+    border-radius: 15px;
+    background-color: rgba(119, 88, 56, 0.123);
+
+}
+
+.comu{
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(85, 56, 28);
+    border-top: 2px solid ;
+    margin: 25px;
+    padding: 5px;
+    border-radius: 15px;
+    background-color: rgba(119, 88, 56, 0.123);
+
+}
